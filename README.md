@@ -1,4 +1,4 @@
-#PetPalace
+# PetPalace
 
 The PetPalace is an innovative pet care website that satisfies a variety of consumer needs on a 
 single, unified platform. Among the many features offered by the site are inventory management, 
