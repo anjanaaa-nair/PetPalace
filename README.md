@@ -1,3 +1,14 @@
+#PetPalace
+
+The PetPalace is an innovative pet care website that satisfies a variety of consumer needs on a 
+single, unified platform. Among the many features offered by the site are inventory management, 
+registration of renowned pet care providers, and management of a wide range of orders and 
+appointments. Simultaneously, clients have a smooth experience from registration to login, which 
+gives them access to a wide range of food and supplies for pets, together with the ease of 
+scheduling appointments with reliable doctors. With its simple design, extensive functionality, and 
+dedication to improving pet welfare, the PetPalace has become the ideal partner for both pet owners 
+and professionals, bringing in a new era of comprehensive pet care management. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
